@@ -1,4 +1,4 @@
-<html>
+<html >
 <body>
 <h2>Hello World!</h2>
 
@@ -7,5 +7,5 @@
 3 <input id="3" type="text">  <br> <br>
 4 <input id="4" type="text"> <br> <br>
 <input id="5" type="text"> <br> <br>
- </body>
+  </body>
 </html>
