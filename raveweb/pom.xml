@@ -16,7 +16,7 @@
 		</dependency>
 
 		<dependency>
- 			<groupId>javax11</groupId>
+ 			<groupId>javax</groupId>
 			<artifactId>javaee-web-api</artifactId>
 			<version>7.0</version>
 		</dependency>
